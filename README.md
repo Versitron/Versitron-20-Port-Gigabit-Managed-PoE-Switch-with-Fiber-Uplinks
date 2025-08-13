@@ -1,4 +1,4 @@
-# 20 Port Gigabit Managed PoE+ Switch with Fiber Uplinks | VERSITRON SG72060MP
+# Versitron | 20 Port Gigabit Managed PoE+ Switch with Fiber Uplinks | VERSITRON SG72060MP
 
 The **VERSITRON SG72060MP** is a **commercial-grade, rackmount 20 port PoE+ switch** designed for robust performance across diverse industries including education, healthcare, government, military, data centers, and utility networks. This **enterprise-grade PoE+ switch** features **Power over Ethernet (PoE+) support**, **fiber uplink ports**, and advanced **Layer 2+ switching** capabilities, making it ideal for **smart buildings**, **retail chains**, **traffic systems**, and **oil & gas field communications**.
 
